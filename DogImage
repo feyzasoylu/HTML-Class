@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Olaf's Vlog Page</title>
+  </head>
+  <body>
+    <h1>Hi I am Olaf!</h1>
+    <h3>Also known as "O laugh the happy dog"</h3>
+    <h2>Welcome to my blog! Woof!</h2>
+    <img src="C:\Users\muham\Desktop\HTML Class\happydog.jpg" alt="">
+  </body>
+</html>
